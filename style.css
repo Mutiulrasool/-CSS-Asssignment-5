@@ -1,0 +1,192 @@
+.main{
+    border: 1px solid black;
+    margin: 5% 20%;
+    justify-content: center;
+    height: 650px;
+    background-color: yellow;
+}
+.divone{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 2% 5%;
+}
+.divsecond{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(128, 128, 228);
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 2% 5%;
+}
+.pone{
+    align-items: center;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    align-self: center;  
+}
+/* div{
+    display: inline-block;
+    justify-content: center;
+} */
+.divthird{
+    display: inline-block;
+    text-align: center;
+    height: 370px;
+    width: 160px;
+    background-color: rgb(32, 5, 151);
+    border: 1px solid black;
+    margin: 5px 20px;
+}
+
+h1{
+    /* font-size: 62px; */
+    font-weight: bold;
+    color: black;
+    align-self: top;
+}
+.divfourth{
+     display: inline-block;
+    text-align: center;
+    height: 370px;
+    width: 550px;
+    background-color: purple;
+    border: 1px solid black;
+    margin: 5px 10px;
+    margin-bottom: 10px;
+}
+.divfifth{
+    /* display: flex;
+    justify-self: center; */
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(241, 82, 7);
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 2% 5%;
+}
+.secondtable{
+    border: 1px solid black;
+    margin: 5% 20%;
+    justify-content: center;
+    height: 800px;
+}
+.sdivone{
+   width: 100%;
+   border-bottom: 2px solid black;
+   font-size: larger;
+   text-align: left ;
+}
+.orange{
+   border: 1px solid black;
+   width: 250px;
+   height: 20vh;
+   margin: 5px 20px;
+   background-color: red;
+   padding-top: 15px;
+   display: block;
+}
+.pink{
+   border: 1px solid black;
+   width: 500px;
+   height: 20vh;
+   margin: 5px 20px;
+   background-color: pink;
+   padding-top: 15px;
+}
+.Footer{
+   border: 2px solid black;
+   width: 70%;
+   height: 60px;
+   /* display: flex; */
+   align-items: center;
+   background-color: yellow;
+   margin: 10px 80px ;
+}
+.scndheading{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black ;
+    margin: 2% 15%;
+    font-weight: bold;
+    color: rgb(96, 230, 96);
+}
+.frstdivtwo{
+    display: flex;
+    justify-content: center  ;
+    align-items: center;
+    border: 1px solid black;
+    margin: 2px 50px;
+    width: 200px;
+    height: 300px;
+    margin-right: -30px;
+}
+.frstdivtwo>h1{
+    font-weight: bolder;
+    color: rgb(96, 230, 96);
+}
+.scnddivtwo{
+    display: flex;
+    justify-content: center  ;
+    align-items: center;
+    border: 1px solid black;
+    margin: 2px 50px;
+    width: 500px;
+    height: 300px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.scnddivtwo>h1{
+    font-weight: bolder;
+    color: rgb(96, 230, 96);
+}
+.thrddivtwo{
+    display: flex;
+    justify-content: center  ;
+    align-items: center;
+    border: 1px solid black;
+    margin: 2px 50px;
+    width: 200px;
+    height: 300px;
+    margin-left: 10px;
+}
+.thrddivtwo>h1{
+    font-weight: bolder;
+    color: rgb(96, 230, 96);
+}
+.lastdivtwo{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 2% 15%;      
+}
+.lastdivtwo>h1{
+    font-weight: bolder;
+    color: rgb(96, 230, 96);
+}
+.t-f-m-d{
+     display: flex;
+     align-items: center; 
+     justify-content: center;
+}
+.t-s-c-d{
+     width: 20%; 
+     height: 150px;
+     background-color: red; 
+     border: 1px solid black;
+}
+.t-t-c.d{
+     width: 65%; 
+     height: 150px;
+     background-color: pink; 
+     border: 1px solid black;
+     margin: 5px 20px ;
+}
